@@ -59,28 +59,28 @@ Software scalability and system design
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 
-<img src="https://devicon-website.vercel.app/api/angularjs/original.svg"/>
+<img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" />
   <img width="12" />
 
-<img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg"/>
-  <img width="12" />
-
-
-<img src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg"height="40" />
   <img width="12" />
 
 
-<img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/csharp/original.svg"height="40" ></img>
+  <img width="12" />
+
+
+<img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"height="40" ></img>
   <img width="12" />
     
 
-    <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg"height="40" ></img>
   <img width="12" />
 
-  <img src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg"height="40" ></img>
   <img width="12" />
 
-  <img src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg"height="40" ></img>
   <img width="12" />
 </div>
 
